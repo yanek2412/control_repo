@@ -1,3 +1,3 @@
 # control_repo
 
-This is test
+This is test for puppet
